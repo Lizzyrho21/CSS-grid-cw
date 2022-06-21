@@ -38,7 +38,7 @@ body{
     font-size: x-large;
     font-weight: bold;
     color: white;
-    background-color: red;
+    background-color: rgb(218, 96, 165);
     padding-bottom: auto;
     padding-top: auto;
 }
@@ -51,7 +51,7 @@ body{
     font-size: large;
     font-weight: bold;
     color: white;
-    background-color: plum;
+
 }
 
 .item3{
@@ -81,12 +81,16 @@ body{
 
 }
 .item8{
+
 grid-row: 5;
 grid-column: 2;
+
 }
 .item9{
+
 grid-row: 5;
 grid-column: 3;
+
 }
 
 
